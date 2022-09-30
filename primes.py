@@ -1,5 +1,8 @@
 """List of prime numbers generator."""
 """ENTER YOUR SOLUTION HERE!"""
+"""Website used for Error handling documentation:
+    https://docs.python.org/3/tutorial/errors.html
+"""
 
 def primes(number_of_primes):
     if number_of_primes<=0:
